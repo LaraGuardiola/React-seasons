@@ -14,7 +14,7 @@
 
 Small app that shows if it's summer or winter based on the users geolocation. If the user accepts then a silly message is printed. Puts in practice the basics of a react app.
 
-### You can test the app here :globe_with_meridians:
+## You can test the app here :globe_with_meridians:
 
 https://laraguardiola.github.io/react-seasons/
 
