@@ -1,4 +1,4 @@
-# React topics in this project
+# React topics in this project :alien:
 
 1. Function-based and classed-based components
 2. Use of props
